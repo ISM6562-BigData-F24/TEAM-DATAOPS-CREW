@@ -14,7 +14,3 @@
     </td>
   </tr>
 </table>
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Satisfy&display=swap');
-</style>
