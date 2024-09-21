@@ -3,7 +3,7 @@
 <table style="border: none;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
-      <img src="Ankita-Singh-image.jpg" alt="Ankita Singh" style="width: 700px; height: 200px; border-radius: 15px; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="Ankita-Singh-image.jpg" alt="Ankita Singh" style="width: 1000px; height: 500px; border-radius: 15px; object-fit: cover; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
     </td>
     <td style="vertical-align: top;">
       <h1 style="margin: 0; font-size: 2.5em; color: white; font-family: 'Satisfy', cursive;">Ankita Singh</h1>
